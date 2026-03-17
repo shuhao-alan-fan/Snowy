@@ -57,6 +57,9 @@ def main():
             # 4. Convert raw units to m/s^2
             accel_ms2 = (clean_accel_raw / ACCEL_SENSITIVITY) * GRAVITY
 
+            if abs(accel_ms2) < 0.15: 
+                accel_ms2 = 0.0
+                
             # 5. Integrate: v(t) = v0 + a*dt
             v_t = v0 + (accel_ms2 * dt)
 
