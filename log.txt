@@ -1,0 +1,11 @@
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi python3[913]: Vertical
+Mar 18 21:52:01 raspberrypi systemd[1]: goggles.service: Deactivated successfully.
+Mar 18 21:52:01 raspberrypi systemd[1]: Finished goggles.service - SNOWY.
+Mar 18 21:52:01 raspberrypi systemd[1]: goggles.service: Consumed 2.577s CPU time.
+~
